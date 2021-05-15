@@ -1,0 +1,146 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.logo{
+    height:100px;
+    width:auto;
+    float: left;
+    margin-top: 20px;
+}
+
+.row-clearfix{
+    display: center;
+
+
+}
+
+.main-nav{
+    float:right;
+    padding-right: 5vh;
+    padding-top: 5vh;
+}
+
+.main-nav li{
+    display:inline-block;
+    list-style: none;
+    margin-left:40px;
+}
+
+.main-nav li a{
+    color:black;
+    padding: 0px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 90%;
+    font-weight: 100px;
+}
+
+.main-nav li a:hover{
+    border-bottom: 2px solid #84bee9;
+
+}
+
+.main-nav1{
+    float:left;
+    padding-right: 5vh;
+}
+
+.main-nav1 li{
+    display:inline-block;
+    list-style: none;
+    margin-left:40px;
+}
+
+.main-nav1 li a{
+    color:solid black;
+    padding: 0px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 90%;
+    font-weight: 100px;
+}
+
+.img1{
+    padding-left: 11vh;
+    padding-right:11vh;
+    padding-top:0px;
+    
+}
+
+h1{
+    padding-top: 5vh;
+    padding-left: 3vh;
+    font-family: 'Poppins', sans-serif;
+}
+
+p{
+    padding-left: 3vh;
+    padding-top:3vh;
+    font-family: 'Poppins', sans-serif;
+}
+
+.main-nav2{
+    padding-left: 3vh;
+    float:vertical;
+    padding-right: 5vh;
+}
+
+.main-nav2 li{
+    display:vertical;
+    list-style:circle;
+    margin-left:40px;
+}
+
+.main-nav2 li a{
+    font-family: 'Poppins', sans-serif;
+    color:black;
+    padding: 0px;
+    text-decoration: none;
+    
+    font-size: 100%;
+    font-weight: 100px;
+}
+
+table, th, td {
+    margin-top: 10px;
+    border: 0.5px solid black;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    
+  }
+
+label{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+
+}
+
+.main-nav3{
+    padding-left: 3vh;
+    padding-right: 5vh;
+    align-items: left;
+}
+
+.main-nav3 li{
+    display:vertical;
+    list-style:circle;
+    margin-left:40px;
+   
+}
+
+.main-nav3 li a{
+    font-family: 'Poppins', sans-serif;
+    color:black;
+    padding: 0px;
+    font-size: 100%;
+    font-weight: lighter;
+    text-decoration: none;
+}
+
+.img2{
+    padding-right:20px;
+    padding-left:20px;
+    padding-top: 25px;
+}
